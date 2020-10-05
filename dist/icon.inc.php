@@ -22,7 +22,7 @@ function icon($iconName, $hashversion = '00000') {
 
 	return'
 		<svg class="icon '.$iconName.'">
-			<use xlink:href="'.get_stylesheet_directory_uri().'/assets/images/icons/'.$area.'-symbol-defs.svg?v='.$hashversion.'#'.$iconName.'"></use>
+			<use xlink:href="'.get_stylesheet_directory_uri(). '/dist/vendor/cl_villa_soleil_icons/dist/'.$area.'-symbol-defs.svg?v='.$hashversion.'#'.$iconName.'"></use>
 		</svg>
 	';
 }
