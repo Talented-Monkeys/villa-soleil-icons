@@ -1,0 +1,21 @@
+{
+  "name": "cl_villa_soleil_icons",
+  "version": "0.0.16",
+  "authors": [
+    "Tobias Feld <tobias@talented-monkeys.com>"
+  ],
+  "description": "Icons for villa soleil project",
+  "main": "dist/dist.php",
+  "keywords": [
+    "icons"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
