@@ -51,17 +51,10 @@
         }
       ],
       "properties": {
-        "order": 2,
+        "order": 45,
         "id": 43,
         "name": "pricing-cheap",
-        "prevSize": 32,
-        "code": 59648,
-        "codes": [
-          59648,
-          59649,
-          59650,
-          59651
-        ]
+        "prevSize": 32
       },
       "setIdx": 0,
       "setId": 0,
@@ -113,17 +106,10 @@
         }
       ],
       "properties": {
-        "order": 3,
+        "order": 44,
         "id": 42,
         "name": "pricing-expensive",
-        "prevSize": 32,
-        "code": 59652,
-        "codes": [
-          59652,
-          59653,
-          59654,
-          59655
-        ]
+        "prevSize": 32
       },
       "setIdx": 0,
       "setId": 0,
@@ -160,11 +146,10 @@
         {}
       ],
       "properties": {
-        "order": 4,
+        "order": 43,
         "id": 41,
         "name": "pricing-free",
-        "prevSize": 32,
-        "code": 59656
+        "prevSize": 32
       },
       "setIdx": 0,
       "setId": 0,
@@ -218,17 +203,10 @@
         }
       ],
       "properties": {
-        "order": 5,
+        "order": 42,
         "id": 40,
         "name": "pricing-normal",
-        "prevSize": 32,
-        "code": 59657,
-        "codes": [
-          59657,
-          59658,
-          59659,
-          59660
-        ]
+        "prevSize": 32
       },
       "setIdx": 0,
       "setId": 0,
@@ -262,11 +240,10 @@
         {}
       ],
       "properties": {
-        "order": 6,
+        "order": 41,
         "id": 39,
         "name": "pricing-very-expensive",
-        "prevSize": 32,
-        "code": 59661
+        "prevSize": 32
       },
       "setIdx": 0,
       "setId": 0,
@@ -291,11 +268,10 @@
         {}
       ],
       "properties": {
-        "order": 7,
+        "order": 40,
         "id": 38,
         "name": "relaxing",
-        "prevSize": 32,
-        "code": 59662
+        "prevSize": 32
       },
       "setIdx": 0,
       "setId": 0,
