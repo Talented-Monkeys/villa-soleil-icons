@@ -1,0 +1,37 @@
+none : None
+i-fae-air-conditioner : Air conditioner
+i-fae-airport : Airport
+i-fae-animal-footprints : Animal footprints
+i-fae-badminton-racket : Badminton racket
+i-fae-barbecue : Barbecue
+i-fae-beach : Beach
+i-fae-bed : Bed
+i-fae-bike : Bike
+i-fae-cards : Cards
+i-fae-coffee-machine : Coffee machine
+i-fae-cooler : Cooler
+i-fae-couch : Couch
+i-fae-dinner-table : Dinner table
+i-fae-dish-machine : Dish machine
+i-fae-dishes : Dishes
+i-fae-dvd : Dvd
+i-fae-egg : Egg
+i-fae-floor-plan : Floor plan
+i-fae-freezer : Freezer
+i-fae-fridge : Fridge
+i-fae-hand-mixer : Hand mixer
+i-fae-iron : Iron
+i-fae-kitchen-utensils : Kitchen utensils
+i-fae-laundry-machine : Laundry machine
+i-fae-lounger : Lounger
+i-fae-microweave : Microweave
+i-fae-oven : Oven
+i-fae-palm-tree : Palm tree
+i-fae-pillows : Pillows
+i-fae-shower : Shower
+i-fae-swimming-pool : Swimming pool
+i-fae-table-tennis-racket : Table tennis racket
+i-fae-toaster : Toaster
+i-fae-toilet : Toilet
+i-fae-tv : Tv
+i-fae-wifi : Wifi

@@ -1,0 +1,45 @@
+none : None
+i-general-angle : Angle
+i-general-badge-favorite : Badge favorite
+i-general-badge-recommend : Badge recommend
+i-general-calendar-appointment : Calendar appointment
+i-general-calendar : Calendar
+i-general-castle : Castle
+i-general-clock : Clock
+i-general-close : Close
+i-general-contact-mail : Contact mail
+i-general-contact-mobile : Contact mobile
+i-general-contact-phone : Contact phone
+i-general-distance : Distance
+i-general-family : Family
+i-general-gps : Gps
+i-general-help : Help
+i-general-info : Info
+i-general-link : Link
+i-general-map : Map
+i-general-pics : Pics
+i-general-pool : Pool
+i-general-pricetag-outline : Pricetag outline
+i-general-pricetag : Pricetag
+i-general-pricing-free : Pricetag free
+i-general-pricing-cheap : Pricetag cheap
+i-general-pricing-normal : Pricetag normal
+i-general-pricing-expensive : Pricetag expensive
+i-general-pricing-very-expensive : Pricetag very expensive
+i-general-ratings-outline : Ratings outline
+i-general-ratings : Ratings
+i-general-relaxing : Relaxing
+i-general-restaurant : Restaurant
+i-general-shopping : Shopping
+i-general-social-facebook : Social facebook
+i-general-social-gplus : Social gplus
+i-general-social-instagram : Social instagram
+i-general-social-pinterest : Social pinterest
+i-general-social-twitter : Social twitter
+i-general-social-youtube : Social youtube
+i-general-sun-empty : Sun empty
+i-general-sun-half : Sun half
+i-general-sun : Sun
+i-general-target : Target
+i-general-temperature : Temperature
+i-general-translate : Translate

@@ -1,0 +1,19 @@
+none : None
+i-weather-cloudy-strong : Cloudy strong
+i-weather-cloudy : Cloudy
+i-weather-night-cloudy-strong : Night cloudy strong
+i-weather-night-cloudy : Night cloudy
+i-weather-night-rain : Night rain
+i-weather-night : Night
+i-weather-rain-strong : Rain strong
+i-weather-rain : Rain
+i-weather-snow-strong : Snow strong
+i-weather-snow : Snow
+i-weather-sun-cloudy-strong : Sun cloudy strong
+i-weather-sun-cloudy : Sun cloudy
+i-weather-sun-rain : Sun rain
+i-weather-sun : Sun
+i-weather-temperature-celsius : Temperature celsius
+i-weather-thunderstorm-rain : Thunderstorm rain
+i-weather-thunderstorm : Thunderstorm
+i-weather-windy : Windy

@@ -1,0 +1,20 @@
+none : None
+i-locals-basketball-basket : Basketball basket
+i-locals-beer : Beer
+i-locals-bread-croissant : Bread croissant
+i-locals-butcher-shop : Butcher shop
+i-locals-cocktail : Cocktail
+i-locals-forest : Forest
+i-locals-fruits : Fruits
+i-locals-groceries : Groceries
+i-locals-hair-cutter-comb : Hair cutter comb
+i-locals-ice-cream : Ice cream
+i-locals-magazine : Magazine
+i-locals-petanque : Petanque
+i-locals-pharmacy : Pharmacy
+i-locals-pizza : Pizza
+i-locals-postcard : Postcard
+i-locals-shopping-bag : Shopping bag
+i-locals-soccer-field : Soccer field
+i-locals-tennis-racket : Tennis racket
+i-locals-walk-dog : Walk dog
