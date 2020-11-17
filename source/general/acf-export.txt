@@ -16,6 +16,22 @@ i-general-gps : Gps
 i-general-help : Help
 i-general-info : Info
 i-general-link : Link
+i-general-link-facebook : Link facebook
+i-general-link-flikr : Link flikr
+i-general-link-foursqueare : Link foursqueare
+i-general-link-instagram : Link instagram
+i-general-link-mail : Link mail
+i-general-link-phone : Link phone
+i-general-link-pinterest : Link pinterest
+i-general-link-reddit : Link reddit
+i-general-link-skype : Link skype
+i-general-link-telegram : Link telegram
+i-general-link-tripadvisor : Link tripadvisor
+i-general-link-tumblr : Link tumblr
+i-general-link-twitter : Link twitter
+i-general-link-url : Link url
+i-general-link-yelp : Link yelp
+i-general-link-youtube : Link youtube
 i-general-map : Map
 i-general-pics : Pics
 i-general-pool : Pool
