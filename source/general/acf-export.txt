@@ -32,7 +32,11 @@ i-general-link-twitter : Link twitter
 i-general-link-url : Link url
 i-general-link-yelp : Link yelp
 i-general-link-youtube : Link youtube
+i-general-link-google-plus : Link google-plus
+i-general-link-wikipedia : Link wikipedia
 i-general-map : Map
+i-general-favorite : Favorite
+i-general-no-favorite : No F avorite
 i-general-pics : Pics
 i-general-pool : Pool
 i-general-pricetag-outline : Pricetag outline
